@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "brain-games"
+version = "0.1.0"
+description = "Mind Games is a set of five console games based on the principle of popular mobile brain—boosting applications. Each game asks questions that need to be answered correctly. After three correct answers, it is considered that the game is over. Incorrect answers end the game and offer to go through it again."
+authors = ["Kozlov Nikita"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
