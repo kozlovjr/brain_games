@@ -13,5 +13,8 @@ publish:
 package-install:
 	python3 -m pip install --user dist/*.whl
 
-upgrade:
+upgrade brain-games:
 	pip install --upgrade brain-games
+
+upgrade brain-even:
+	pip install --upgrade brain-even
