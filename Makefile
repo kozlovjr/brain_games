@@ -18,3 +18,9 @@ upgrade brain-games:
 
 upgrade brain-even:
 	pip install --upgrade brain-even
+
+upgrade brain-calc:
+	pip install --upgrade brain-calc
+
+upgrade brain-gcd:
+	pip install --upgrade brain-gcd
